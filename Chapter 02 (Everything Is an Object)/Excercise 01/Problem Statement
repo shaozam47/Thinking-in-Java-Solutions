@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////
+PROBLEM STATEMENT : - 
+Create a class containing an int and a char that are not initialized, and 
+print their values to verify that Java performs default initialization.  
+///////////////////////////////////////////////////////////////////////////
+SOLUTIONS : -
+class Defaulter
+{
+    int i;
+    char c;
+}
+public class Practice
+{
+    public static void main(String[] args)
+    {
+        Defaulter D = new Defaulter();
+        System.out.println("Integer   = " + D.i);
+        System.out.println("Character = " + D.c);
+    }
+}
+///////////////////////////////////////////////////////////////////////////
