@@ -1,0 +1,17 @@
+PROBLEM STATEMENT : - 
+---------------------------------------------------------------------------
+Modify the previous exercise so that the values of the data in DataOnly 
+are assigned to and printed in main( ).   
+---------------------------------------------------------------------------
+
+
+Output : -
+---------------------------------------------------------------------------
+Default Value of Integer : 0
+Default Value of Double  : 0.0
+Default Value of Boolean : false
+Modified Value of Integer : 1
+Modified Value of Double  : 1.0
+Modified Value of Boolean : true
+
+---------------------------------------------------------------------------
