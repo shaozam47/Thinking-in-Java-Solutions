@@ -4,7 +4,6 @@ Create a class containing an int and a char that are not initialized, and print 
 verify that Java performs default initialization.  
 ///////////////////////////////////////////////////////////////////////////////////////////////
 SOLUTION : -
-SOLUTIONS : -
 class Defaulter
 {
     int i;
