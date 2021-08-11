@@ -6,6 +6,8 @@ Turn the DataOnly code fragments into a program that compiles and runs.
 
 Output : -
 ---------------------------------------------------------------------------
-0 is considered as false in C++
+Default Value of Integer : 0
+Default Value of Double  : 0.0
+Default Value of Boolean : false
 
 ---------------------------------------------------------------------------
