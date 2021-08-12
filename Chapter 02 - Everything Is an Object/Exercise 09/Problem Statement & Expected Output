@@ -7,15 +7,21 @@ primitive types and their wrappers.
 
 Output : -
 ---------------------------------------------------------------------------
-Static Variable of 1st Object before Increment      : 0
-Non-Static Variable of 1st Object before Increment  : 0
-Static Variable of 2nd Object before Increment      : 0
-Non-Static Variable of 2nd Object before Increment  : 0
-Static Variable of 1st Object after Increment       : 1
-Non-Static Variable of 1st Object after Increment   : 1
-Static Variable of 2nd Object after Increment       : 2
-Non-Static Variable of 2nd Object after Increment   : 1
-Values of static variable is result of cumulative increment of both objects.
-Therefore both objects share same static variable.
+Boolean from Stack : true
+Boolean from Heap  : true
+Character from Stack : x
+Character from Heap  : x
+Byte from Stack : 120
+Byte from Heap  : 120
+Short from Stack : 256
+Short from Heap  : 256
+Integer from Stack : 204
+Integer from Heap  : 204
+Long from Stack : 65536
+Long from Heap  : 65536
+Float from Stack : 3.14
+Float from Heap  : 3.14
+Double from Stack : 3.14159265358979
+Double from Heap  : 3.14159265358979
 
 ---------------------------------------------------------------------------
