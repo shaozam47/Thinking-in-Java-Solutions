@@ -8,7 +8,15 @@ static field in that class.
 
 Output : -
 ---------------------------------------------------------------------------
-Before Increment : 47
-After Increment  : 48
+Static Variable of 1st Object before Increment      : 0
+Non-Static Variable of 1st Object before Increment  : 0
+Static Variable of 2nd Object before Increment      : 0
+Non-Static Variable of 2nd Object before Increment  : 0
+Static Variable of 1st Object after Increment       : 1
+Non-Static Variable of 1st Object after Increment   : 1
+Static Variable of 2nd Object after Increment       : 2
+Non-Static Variable of 2nd Object after Increment   : 1
+Values of static variable is result of cumulative increment of both objects.
+Therefore both objects share same static variable.
 
 ---------------------------------------------------------------------------
