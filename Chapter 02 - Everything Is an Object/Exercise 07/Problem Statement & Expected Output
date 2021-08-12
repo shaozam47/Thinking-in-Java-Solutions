@@ -6,7 +6,6 @@ Turn the Incrementable code fragments into a working program.
 
 Output : -
 ---------------------------------------------------------------------------
-java -cp /tmp/PYkswTMt1Y Practice
 Static Variable of 1st Object before Increment      : 0
 Non-Static Variable of 1st Object before Increment  : 0
 Static Variable of 2nd Object before Increment      : 0
