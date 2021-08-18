@@ -1,0 +1,19 @@
+PROBLEM STATEMENT : - 
+---------------------------------------------------------------------------
+Write a program that prints three arguments taken from the command line. 
+To do this, you’ll need to index into the command-line array of Strings. 
+---------------------------------------------------------------------------
+
+
+Output : -
+---------------------------------------------------------------------------
+The Output is dependent on what you write on Terminal.
+It should look somewhat like this :- 
+
+C:\Users\bjaye\IdeaProjects\Practice> cd src/
+C:\Users\bjaye\IdeaProjects\Practice\src> javac Practice.java
+C:\Users\bjaye\IdeaProjects\Practice\src> java Practice H I
+H
+I
+
+---------------------------------------------------------------------------
